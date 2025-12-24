@@ -1,0 +1,2 @@
+# PrefabNestedNameChecker
+同名嵌套层级检测，用于animation rigging如果骨骼中出现同名嵌套层级会宕机
